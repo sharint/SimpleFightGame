@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Entity.cs" />
+    <Content Include="GameController.cs" />
+    <Content Include="EntityCreater.cs" />
+    <Content Include="Monster.cs" />
+    <Content Include="Player.cs" />
+  </ItemGroup>
+</Project>
